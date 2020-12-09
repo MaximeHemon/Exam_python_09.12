@@ -1,3 +1,7 @@
+from colorama import init 
+init()
+from colorama import Fore, Back, Style 
+
 mot1={"c","a","s","t","o","r"}
 mot2={"c","i","n","e","m","a"}
 mot3={"c","i","t","r","o","n"}
